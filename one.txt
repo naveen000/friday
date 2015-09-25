@@ -1,2 +1,2 @@
 testing ssh.
-hi
+checking hi
